@@ -29,7 +29,7 @@ This repository is still under development and I will continue to add more featu
 1. **Fork the Repository**:
 
    - Navigate to the repository on GitHub.
-   - Click the [Fork](https://github.com/PriyaGhosal/SkillWise/fork) button at the top right of the page to create a copy of the repository under your GitHub account.
+   - Click the [Fork](https://github.com/RAVICHANDRALS507/WhiteBoard) button at the top right of the page to create a copy of the repository under your GitHub account.
    - For more information, see [GitHub's Forking Guide](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 
 2. **Clone the Forked Repository**:
